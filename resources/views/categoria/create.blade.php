@@ -15,7 +15,7 @@
 <input class="form-control" type="text" name="nombre" placeholder="INGRESA NOMBRE" required>
 <br>
 
-<input type="submit" name="enviar" value="ENVIAR">
+<input type="submit" name="enviar" value="ENVIAR" class="btn btn-success">
 
 </form>
     </div>

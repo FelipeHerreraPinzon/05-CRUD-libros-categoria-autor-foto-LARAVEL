@@ -33,7 +33,7 @@
 </div>
 <br>
 
-<input type="submit" name="enviar" value="ENVIAR">
+<input type="submit" name="enviar" value="ENVIAR" class="btn btn-success">
 
 </form>
     </div>

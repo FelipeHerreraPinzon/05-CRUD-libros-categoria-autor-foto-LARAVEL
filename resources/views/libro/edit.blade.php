@@ -31,7 +31,7 @@
 </div>
 <br>
 
-<input type="submit" name="enviar" value="ACTUALIZAR">
+<input type="submit" name="enviar" value="ACTUALIZAR" class="btn btn-success">
 
 </form>
     </div>
